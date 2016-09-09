@@ -1,0 +1,16 @@
+{
+  "services":
+  [{
+    "name": "echo-service",
+    "id": "5629FEB9-5CB1-4228-8832-98E46A6C5612",
+    "description": "Echo back data sent in via the 'data' argument.",
+    "bindable": true,
+    "plans":
+    [{
+      "id": "E1F316B4-6B67-46EE-A5E4-35A74A41433C",
+      "name": "basic",
+      "description": "Basic echo plan.",
+      "free": true
+    }]
+  }]
+}
